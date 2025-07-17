@@ -311,15 +311,26 @@
                 padding: 12px 14px;
                 max-width: 300px;
             }
-
+            
             .dialog-input {
                 padding: 7px 10px;
                 height: 34px;
             }
-
+            
             .dialog-btn {
                 padding: 5px 10px;
             }
+         /* 全局强制换行 */
+       * {
+        word-wrap: break-word !important;
+        word-break: break-all !important;
+        white-space: normal !important;
+        /* 禁止文本选择，防止长按复制 */
+        user-select: none !important;
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important
+        }
         }
 
         /* 加载动画 */
