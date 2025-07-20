@@ -60,9 +60,9 @@
   <img style="max-width:100%; height:auto;" src="https://github.com/user-attachments/assets/89f7d150-cd39-41e6-970e-a13d96986999" alt="电脑界面" />
 
   <p><strong>移动端界面</strong></p>
-  <div style="display: flex; justify-content: center; gap: 15px; overflow-x: auto;">
-    <img style="width: 500px; height: auto;" src="https://github.com/user-attachments/assets/a8e1ef93-bf20-465b-80c5-0c42a31de31c" alt="手机界面" />
-    <img style="width: 450px; height: auto;" src="https://github.com/user-attachments/assets/6772d950-9e81-4602-93e5-ea5af5e59a58" alt="手机壁纸设置" />
+  <div style="display: flex; justify-content: center; gap: 15px; white-space: nowrap; overflow-x: auto;">
+    <img style="width: 500px; height: auto; flex-shrink: 0;" src="https://github.com/user-attachments/assets/a8e1ef93-bf20-465b-80c5-0c42a31de31c" alt="手机界面" />
+    <img style="width: 450px; height: auto; flex-shrink: 0;" src="https://github.com/user-attachments/assets/6772d950-9e81-4602-93e5-ea5af5e59a58" alt="手机壁纸设置" />
   </div>
 </div>
 
