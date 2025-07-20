@@ -1,7 +1,3 @@
-以下是一个经过美化、结构清晰、排版优雅的 Markdown 格式版本，适合用于 GitHub 仓库的 `README.md` 文件中：
-
----
-
 # 🧰 GitHub 仓库管理工具
 
 > 一个轻量级的 GitHub 仓库管理工具，支持登录、浏览、上传、下载、删除等操作，并提供 GitHub Pages 托管、GitHub Actions 触发等高级功能。
