@@ -1,4 +1,5 @@
 # GitHub-repository
+二改美化，提供简单的仓库管理功能
 GitHub仓库管理工具功能清单：  
 **1、用户认证**  
 GitHub Token登录  
